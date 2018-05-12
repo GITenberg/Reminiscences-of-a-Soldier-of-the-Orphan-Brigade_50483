@@ -1,10 +1,16 @@
 _repo: Reminiscences-of-a-Soldier-of-the-Orphan-Brigade_50483
+_version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 50483-h/images/cover.jpg
 creator:
   author:
     agent_name: Young, L. D.
     gutenberg_agent_id: '45933'
     url: http://www.gutenberg.org/2009/agents/45933
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/50483#Reminiscences-of-a-Soldier-of-the-Orphan-Brigade
 gutenberg_issued: '2015-11-18'
 gutenberg_type: Text
 identifiers:
